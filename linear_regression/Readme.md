@@ -10,7 +10,7 @@ Predict California house prices based on **Median Income** using a simple linear
 
 ---
 
-## Contents
+# Contents
 
 - `01_linear_regression_from_scratch.ipynb` — Fully documented Jupyter Notebook with:
   - Data loading
@@ -23,7 +23,7 @@ Predict California house prices based on **Median Income** using a simple linear
 
 ---
 
-## Dataset
+# Dataset
 
 - **California Housing Dataset**
 - Source: `sklearn.datasets.fetch_california_housing`
@@ -35,9 +35,9 @@ Predict California house prices based on **Median Income** using a simple linear
 
 ---
 
-## ⚙️ How It Works
+# ⚙️ How It Works
 
-### Hypothesis
+## Hypothesis
 
 Predict house price with:
 \[
@@ -46,7 +46,7 @@ Predict house price with:
 
 ---
 
-### Loss Function
+## Loss Function
 
 Minimize the **Mean Squared Error (MSE)**:
 \[
@@ -55,14 +55,14 @@ MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 
 ---
 
-### Optimization
+## Optimization
 
 - Uses **Gradient Descent** to update `w` and `b` step by step.
 - Adjusts parameters to reduce prediction error.
 
 ---
 
-### Visualizations
+## Visualizations
 
 - Scatter plot: Median Income vs Price
 - Best-fit line: shows how well the model fits
@@ -71,13 +71,18 @@ MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 
 ---
 
-### Results
+## Results
 - Trained a simple Linear Regression model without sklearn.
 - Compared its slope (w) and intercept (b) with scikit-learn to verify correctness.
 - Visualized how Gradient Descent works in practice.
 
 ---
 
-### Author
+## Author
 Shilajit Mukherjee
+- Data Science student at IITM
+- AI/ML Enthusiast
 
+For queries, feel free to reach out!
+
+$\sqrt{3x-1}+(1+x)^2$
