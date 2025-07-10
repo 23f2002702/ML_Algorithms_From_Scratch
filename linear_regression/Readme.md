@@ -4,9 +4,9 @@ This project demonstrates how to implement **Linear Regression** **from scratch*
 
 **Goal:**  
 Predict California house prices based on **Median Income** using a simple linear line:  
-\[
+$\[
 \hat{y} = wX + b
-\]
+\]$
 
 ---
 
@@ -85,4 +85,4 @@ Shilajit Mukherjee
 
 For queries, feel free to reach out!
 
-$\sqrt{3x-1}+(1+x)^2$
+
