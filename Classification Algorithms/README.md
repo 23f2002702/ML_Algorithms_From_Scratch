@@ -9,11 +9,7 @@ This folder contains classic **Classification** algorithms implemented completel
 ##  Contents
 
 - **Logistic Regression**
-- **K-Nearest Neighbors (KNN)**
-- **Gaussian Naive Bayes**
-- **Decision Tree (ID3 / CART)**
-- **Support Vector Machine (SVM)**
-- **Perceptron**
+
 
 Each notebook includes:
 - Data loading
